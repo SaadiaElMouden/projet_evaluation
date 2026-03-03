@@ -1,0 +1,6 @@
+1- premiere teste c'est de generation de base de donnée
+2- git log : voir les commits que j'ai fait en github
+git checkout -b feat/test-services : por créer les branches (lorsque un binome travail sur un seul branche ça fait ds conflits )
+methode public static void run() ;
+
+
